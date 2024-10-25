@@ -1,2 +1,2 @@
 # customCookiecutter
-customCookiecutter using cookiecutter library
+customCookiecutter using cookiecutter python library
